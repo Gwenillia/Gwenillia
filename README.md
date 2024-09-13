@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwenillia" alt="gwenillia" /></a> </p>
 
-- 🌱 I’m currently learning **SolidJS, Svelte, Laravel, PHP**
+- 🌱 I’m currently learning how to tie my laces.
 
 - 💬 Ask me about **React**
 
