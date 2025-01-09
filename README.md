@@ -15,5 +15,3 @@
 [to be completed]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwenillia&show_icons=true&locale=en" alt="gwenillia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gwenillia&" alt="gwenillia" /></p>
